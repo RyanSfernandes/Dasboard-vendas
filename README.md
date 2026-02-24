@@ -1,6 +1,6 @@
 ## 📊 Dashboard de Gestão de Vendas
 
-https://github.com/RyanSfernandes/Dasboard-vendas/blob/main/imagem_2026-02-24_120144299.png
+https://app.powerbi.com/view?r=eyJrIjoiYzA5ODUzNmQtODAwNC00MjJjLTkxNzYtMWM1MTdmNzI3Mjc0IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
 
 Este projeto consiste em um dashboard interativo de gestão de vendas desenvolvido para acompanhar o desempenho comercial de uma empresa fictícia. O objetivo é fornecer uma visão clara e dinâmica sobre faturamento, formas de pagamento, análise de produtos e sazonalidade.
 
