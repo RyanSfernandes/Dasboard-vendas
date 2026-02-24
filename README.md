@@ -1,7 +1,5 @@
 ## 📊 Dashboard de Gestão de Vendas
 
-https://app.powerbi.com/view?r=eyJrIjoiYzA5ODUzNmQtODAwNC00MjJjLTkxNzYtMWM1MTdmNzI3Mjc0IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
-
 Este projeto consiste em um dashboard interativo de gestão de vendas desenvolvido para acompanhar o desempenho comercial de uma empresa fictícia. O objetivo é fornecer uma visão clara e dinâmica sobre faturamento, formas de pagamento, análise de produtos e sazonalidade.
 
 ## 🚀 Funcionalidades e Indicadores
@@ -52,3 +50,6 @@ Power BI Desktop: Criação do dashboard, modelagem de dados e aplicação da l�
 Power Query: Processo de ETL (Extração, Transformação e Carga) e limpeza dos dados.
 
 Base de Dados: Conjunto de dados fictícios gerados para fins de estudo e portfólio.
+
+Link Do Dashboard:https://app.powerbi.com/view?r=eyJrIjoiYzA5ODUzNmQtODAwNC00MjJjLTkxNzYtMWM1MTdmNzI3Mjc0IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+
